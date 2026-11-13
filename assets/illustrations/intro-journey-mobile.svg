@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="kd-journey kd-journey-mobile" viewBox="0 0 330 340" role="img" aria-label="A food pack goes from one home to another">
+  <path d="M70 74C7 124 116 165 181 183S304 225 247 282" fill="none" stroke="#bd674b" stroke-width="3.6" class="kd-dashed-route"/>
+  <path d="M22 75 64 36l43 39M32 73v57h64V73" stroke="#2d6348" fill="#e6e5d4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 128V96h19v32" fill="#d7e7d3" stroke="#2d6348" stroke-width="3"/>
+  <path d="M208 298q37 24 73 0m-79-12q43-13 86 0" class="kd-hand-plate" stroke="#2d6348" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M220 276q-8-14 2-24m24 23q-8-15 2-24" stroke="#d69a6e" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <g class="kd-package"><animateMotion dur="3.05s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".35 0 .2 1" path="M70 74C7 124 116 165 181 183S304 225 247 282"/>
+    <path d="M-20-19h40v41h-40z" fill="#d8a574" stroke="#295a41" stroke-width="2.8"/>
+    <path d="M-20-19 0-28 20-19 0-11Z" fill="#e5ba87" stroke="#295a41" stroke-width="2.8"/>
+    <path d="M0-10v32" stroke="#a66a46" stroke-width="3"/>
+    <circle cx="10" cy="5" r="4" fill="#d66c4c"/>
+  </g>
+  <path d="M19 218q18-10 33-1m215-130q19 3 27-6" stroke="#c3b496" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>
